@@ -4,8 +4,8 @@ using System.Text;
 
 namespace Pokemon_Console_Game
 {
-    enum Type
+    enum TrainerType
     {
-        NERD,SMOKER,VEGAN,PROF,FACHSCHAFT,KRÜPPL
+        NERD,SMOKER,VEGAN,PROF,FACHSCHAFT,DAMEGED
     }
 }

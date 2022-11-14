@@ -6,7 +6,8 @@ namespace Pokemon_Console_Game
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Fight fight = new Fight();
+            fight.startGame();
         }
     }
 }
